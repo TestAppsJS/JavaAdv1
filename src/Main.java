@@ -1,4 +1,6 @@
 public class Main {
+
+
     public static void main(String[] args) {
         Employee bogdan = new Employee();
         bogdan.name = "Bogdan";
@@ -8,3 +10,5 @@ public class Main {
         System.out.println(b);
     }
 }
+
+
